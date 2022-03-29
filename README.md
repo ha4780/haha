@@ -1,6 +1,9 @@
 # haha
 # haha
 
+##2주차 과제
+<img width="" height="" src="./pic/2st.png.PNG"> </img>
+
 
 ## 3주차 과제
 
