@@ -11,7 +11,7 @@
 <img width="" height="" src="./pic/3주차 전화걸기. png.PNG"> </img>
 
 ## 6주차 과제
-<img width="" height="" src="./pic/강아지.pic"> </img>
-<img width="" height="" src="./pic/고양이.pic"> </img>
-<img width="" height="" src="./pic/소스코드.pic"> </img>
-<img width="" height="" src="./pic/소스코드.pic(2)"> </img>
+<img width="" height="" src="./pic/강아지.png"> </img>
+<img width="" height="" src="./pic/고양이.png"> </img>
+<img width="" height="" src="./pic/소스코드.png"> </img>
+<img width="" height="" src="./pic/소스코드.png(2)"> </img>
