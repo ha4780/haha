@@ -14,4 +14,4 @@
 <img width="" height="" src="./pic/강아지.pic.PNG"> </img>
 <img width="" height="" src="./pic/고양이.pic.PNG"> </img>
 <img width="" height="" src="./pic/소스코드.pic.PNG"> </img>
-<img width="" height="" src="./pic/소스코드.pic.PNG(2)"> </img>
+<img width="" height="" src="./pic/소스코드.pic (2).PNG"> </img>
