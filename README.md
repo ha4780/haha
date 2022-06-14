@@ -20,4 +20,4 @@
 ![21173060-김하윤 10주차 과제2](https://user-images.githubusercontent.com/80918786/168467165-3a83ce50-ebb7-4470-8066-cb5a94f6a765.PNG)
 
 ## 11주차 과제
-![21173060-김하윤 플랫폼](https://user-images.githubusercontent.com/80918786/169769471-03e8936f-f4f3-4668-a022-20083c2aa22c.png)
+![21173060-김하윤 플랫폼]![dvssfv](https://user-images.githubusercontent.com/80918786/173571369-5899041d-fd65-4775-83af-b8da4043c314.PNG)
